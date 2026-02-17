@@ -2,7 +2,6 @@
 	"appId": "com.mustafa.memorygame",
 	"appName": "Kid Memory",
 	"webDir": "dist/public",
-	"bundledWebRuntime": false,
 	"plugins": {
 		"AdMob": {
 			"publisherId": "pub-2793977718393893"
